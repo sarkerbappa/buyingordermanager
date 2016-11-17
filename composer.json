@@ -24,7 +24,8 @@
             "App\\": "app/"
         },
         "files": [
-            "app/Helpers/order_validation_helper.php"
+            "app/Helpers/order_validation_helper.php",
+            "app/Helpers/general_settings_helper.php"
             ]
     },
     "autoload-dev": {
